@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    gap: 5rem;
+}
+
+
+.cardContainer {
+    background: #FFFFFF;
+    box-shadow: -2px 1px 5px 9px rgba(0,0,0,0.35);
+    padding: 2rem;
+    border-radius: 1rem;
+    min-width: 13rem;
+}
+
+.featureList {
+    min-height: 7rem;
+}
+
+.name {
+    margin: 0;
+}
+
+.button {
+    background: #635BFF;
+    color: white;
+}
